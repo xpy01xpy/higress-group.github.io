@@ -41,7 +41,7 @@ export const DOCS_ITEM = [
   },
 ];
 
-export const MEDIARESOURCE = null
+export const MEDIARESOURCE = [];
 
 // 主要特性
 export const CHOOSE_REASON_LIST: ChooseReason[] = [
